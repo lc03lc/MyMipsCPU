@@ -1,6 +1,6 @@
 # CQU硬综Mips处理器设计实现
 
-![image-20240501174032843](C:\Users\lc03lc\Desktop\Recent Files\MyMipsCPU\FIG.png)
+<img src="./fig.png">
 
 ### **a)  必选内容**
 
