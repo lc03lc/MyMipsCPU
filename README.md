@@ -1,5 +1,7 @@
 # CQU硬综Mips处理器设计实现
 
+![image-20240501174032843](C:\Users\lc03lc\Desktop\Recent Files\MyMipsCPU\FIG.png)
+
 ### **a)  必选内容**
 
 **i.** 将简易五级流水线CPU，由十条指令扩展为57条指令，并实现异常处理模块。
